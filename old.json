@@ -1,0 +1,293 @@
+{
+  "puskesmas" : {
+    "faskes" : {
+      "cengkareng" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kecamatan Cengkareng"
+      },
+      "cengkareng_barat_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Cengkareng Barat 1"
+      },
+      "cengkareng_barat_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Cengkareng Barat 2"
+      },
+      "cengkareng_duri_kosambi_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Duri Kosambi 1"
+      },
+      "cengkareng_duri_kosambi_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Duri Kosambi 2"
+      },
+      "cengkareng_kapuk_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kapuk 1"
+      },
+      "cengkareng_kapuk_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kapuk 2"
+      },
+      "cengkareng_kedaung" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kedaung Kali Angke"
+      },
+      "cengkareng_rawa_buaya" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Rawa Buaya"
+      },
+      "cengkareng_timur" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Cengkareng Timur"
+      },
+      "cilincing_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Cilincing 1"
+      },
+      "cilincing_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Cilincing 2"
+      },
+      "cilincing_kalibaru" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kalibaru"
+      },
+      "cilincing_marunda" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Marunda"
+      },
+      "cilincing_rorotan" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Rorotan"
+      },
+      "cilincing_semper_barat_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Semper Barat 1"
+      },
+      "cilincing_semper_barat_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Semper Barat 2"
+      },
+      "cilincing_semper_barat_3" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Semper Barat 3"
+      },
+      "cilincing_sukapura" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Sukapura"
+      },
+      "kamal-muara" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kamal Muara"
+      },
+      "kapuk-muara" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kapuk Muara"
+      },
+      "kelapa_gading" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kecamatan Kelapa Gading"
+      },
+      "kelapa_gading_pegangsaan_dua_a" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Pegangsaan Dua A"
+      },
+      "kelapa_gading_pegangsaan_dua_b" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Pegangsaan Dua B"
+      },
+      "kelapa_gading_timur_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kelapa Gading Timur 1"
+      },
+      "kelapa_gading_timur_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kelapa Gading Timur 2"
+      },
+      "koja_lagoa" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Lagoa"
+      },
+      "pademangan" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kecamatan Pademangan"
+      },
+      "pademangan-1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Pademangan Barat 1"
+      },
+      "pademangan-2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Pademangan Barat 2"
+      },
+      "pademangan-ancol" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Ancol"
+      },
+      "pademangan_bt" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Pademangan Barat Timur"
+      },
+      "pejagalan" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Pejagalan"
+      },
+      "penjaringan" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kecamatan Penjaringan"
+      },
+      "penjaringan-1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Penjaringan 1"
+      },
+      "penjaringan-2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Penjaringan 2"
+      },
+      "pluit" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Pluit"
+      },
+      "priok_kebon_bawang_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kebon Bawang 1"
+      },
+      "priok_kebon_bawang_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kebon Bawang 2"
+      },
+      "priok_kebon_bawang_3" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Kebon Bawang 3"
+      },
+      "priok_papanggo_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Papanggo 1"
+      },
+      "priok_papanggo_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Papanggo 2"
+      },
+      "priok_sungai_bambu" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Sungai Bambu"
+      },
+      "priok_sunter_agung_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Sunter Agung 1"
+      },
+      "priok_sunter_agung_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Sunter Agung 2"
+      },
+      "priok_sunter_agung_3" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Sunter Agung 3"
+      },
+      "priok_sunter_jaya_1" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Sunter Jaya 1"
+      },
+      "priok_sunter_jaya_2" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Sunter Jaya 2"
+      },
+      "priok_tanjung_priok" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Tanjung Priok"
+      },
+      "priok_warakas" : {
+        "antrian" : 0,
+        "nama" : "Puskesmas Kelurahan Warakas"
+      }
+    },
+    "pasien" : {
+      "-KGsj7mB4GMlHv39sDgS" : {
+        "lokasi" : "kelapa_gading",
+        "nama" : "Andre Christoga",
+        "nik" : "1234567890123456"
+      },
+      "-KGsj84QKFW6_FMHUMlS" : {
+        "lokasi" : "kelapa_gading",
+        "nama" : "Andre Christoga",
+        "nik" : "1234567890123456"
+      },
+      "-KGsjH1iiLM8aWZs0-IP" : {
+        "lokasi" : "kelapa_gading",
+        "nama" : "Andre Christoga",
+        "nik" : "1234567890123456"
+      },
+      "-KH9FFezmQv6Z4d2i-6J" : {
+        "nama" : "Andre Christoga",
+        "nik" : 1234657890123465,
+        "no_antrian" : 1
+      }
+    }
+  },
+  "rss" : {
+    "faskes" : {
+      "royal_progress" : {
+        "antrian" : 0,
+        "nama" : "RSS Royal Progress",
+        "tempat_tidur" : {
+          "dua" : "2",
+          "satu" : 1,
+          "tiga" : 3
+        }
+      }
+    },
+    "pasien" : {
+      "-KGUnitsVDogLDjxVqqA" : {
+        "lokasi" : "1",
+        "nama" : "Andre Christoga",
+        "nik" : "1234567890123456",
+        "no_rujuk" : "12345678901234567890"
+      }
+    }
+  },
+  "rsud" : {
+    "faskes" : {
+      "cipto" : {
+        "antrian" : 0,
+        "nama" : "RSUD Dr. Cipto Mangunkusumo",
+        "tempat_tidur" : {
+          "dua" : 2,
+          "satu" : 1,
+          "tiga" : 3
+        }
+      },
+      "koja" : {
+        "antrian" : 0,
+        "nama" : "RSUD Koja",
+        "tempat_tidur" : {
+          "dua" : 2,
+          "satu" : 1,
+          "tiga" : 3
+        }
+      }
+    }
+  },
+  "rsuk" : {
+    "faskes" : {
+      "cilincing" : {
+        "antrian" : 0,
+        "nama" : "RSUK Cilincing",
+        "tempat_tidur" : {
+          "dua" : 2,
+          "satu" : 1,
+          "tiga" : 3
+        }
+      },
+      "pesanggrahan" : {
+        "antrian" : 0,
+        "nama" : "RSUK Pesanggrahan",
+        "tempat_tidur" : {
+          "dua" : 2,
+          "satu" : 1,
+          "tiga" : 3
+        }
+      }
+    }
+  }
+}
