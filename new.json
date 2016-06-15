@@ -41,6 +41,34 @@
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Cengkareng Timur"
       },
+      "cilandak" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Cilandak"
+      },
+      "cilandak-barat" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cilandak Barat"
+      },
+      "cilandak-cipete" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipete Selatan"
+      },
+      "cilandak-gandaria" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Gandaria Selatan"
+      },
+      "cilandak-lebak" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Lebak Bulus"
+      },
+      "cilandak-pondok-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pondok Labu I"
+      },
+      "cilandak-pondok-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pondok Labu II"
+      },
       "cilincing_1" : {
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Cilincing 1"
@@ -77,6 +105,234 @@
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Sukapura"
       },
+      "ciracas" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Ciracas"
+      },
+      "ciracas-cibubur" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cibubur"
+      },
+      "ciracas-kelapa" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kelapa Dua Wetan"
+      },
+      "ciracas-rambutan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Rambutan"
+      },
+      "duren-sawit" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Duren Sawit"
+      },
+      "duren-sawit-bambu-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pondok Bambu I"
+      },
+      "duren-sawit-bambu-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pondok Bambu II"
+      },
+      "duren-sawit-kel" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Duren Sawit"
+      },
+      "duren-sawit-kelapa" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pondok Kelapa"
+      },
+      "duren-sawit-klender-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Klender I"
+      },
+      "duren-sawit-klender-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Klender II"
+      },
+      "duren-sawit-klender-3" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Klender III"
+      },
+      "duren-sawit-kopi-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pondok Kopi I"
+      },
+      "duren-sawit-kopi-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pondok Kopi II"
+      },
+      "duren-sawit-malaka-jaya" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Malaka Jaya"
+      },
+      "duren-sawit-malaka-sari" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Malaka Sari"
+      },
+      "grogol" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Grogol Petamburan"
+      },
+      "grogol-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Grogol I"
+      },
+      "grogol-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Grogol II"
+      },
+      "grogol-3" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Grogol III"
+      },
+      "grogol-jelambar-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jelambar I"
+      },
+      "grogol-jelambar-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jelambar II"
+      },
+      "grogol-jelambar-baru" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jelambar Baru"
+      },
+      "grogol-tanjung-duren-selatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tanjung Duren Selatan"
+      },
+      "grogol-tanjung-duren-utara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tanjung Duren Utara"
+      },
+      "grogol-tomang" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tomang"
+      },
+      "jagakarsa-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jagakarsa I"
+      },
+      "jagakarsa-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jagakarsa II"
+      },
+      "jagakarsa-ciganjur" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Ciganjur"
+      },
+      "jagakarsa-lenteng-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Lenteng Agung I"
+      },
+      "jagakarsa-lenteng-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Lenteng Agung II"
+      },
+      "jagakarsa-srenseng" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Srengseng Sawah"
+      },
+      "jagakarsa_ciganjur" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Ciganjur"
+      },
+      "jatinegara" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Jatinegara"
+      },
+      "jatinegara-bali" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Bali Mester"
+      },
+      "jatinegara-bidara-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Bidara Cina I"
+      },
+      "jatinegara-bidara-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Bidara Cina II"
+      },
+      "jatinegara-bidara-3" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Bidara Cina III"
+      },
+      "jatinegara-cipinang-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipinang Besar Selatan I"
+      },
+      "jatinegara-cipinang-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipanang Besar Selatan II"
+      },
+      "jatinegara-cipinang-cempedak" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipinang Cempedak"
+      },
+      "jatinegara-cipinang-muara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipinang Muara"
+      },
+      "jatinegara-cipinang-utara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipinang Besar Utara"
+      },
+      "jatinegara-kampung" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kampung Melayu"
+      },
+      "jatinegara-rawa" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Rawa Bunga"
+      },
+      "kalideres" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kalideres"
+      },
+      "kalideres-kamal" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kamal"
+      },
+      "kalideres-kamal-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kamal II"
+      },
+      "kalideres-pegadungan-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pegadungan I"
+      },
+      "kalideres-pegadungan-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pegadungan II"
+      },
+      "kalideres-pegadungan-3" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pegadungan III"
+      },
+      "kalideres-pegadungan-4" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pegadungan IV"
+      },
+      "kalideres-semanan-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Semanan I"
+      },
+      "kalideres-semanan-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Semanan II"
+      },
+      "kalideres-tegal-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tegal Alur I"
+      },
+      "kalideres-tegal-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tegal Alur II"
+      },
+      "kalideres-tegal-3" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tegal Alur III"
+      },
       "kamal-muara" : {
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Kamal Muara"
@@ -84,6 +340,118 @@
       "kapuk-muara" : {
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Kapuk Muara"
+      },
+      "kebayoran-baru" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Kebayoran Baru"
+      },
+      "kebayoran-cipete" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipete Utara"
+      },
+      "kebayoran-gandaria-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Gandaria Utara 1"
+      },
+      "kebayoran-gandaria-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Gandaria Utara 2"
+      },
+      "kebayoran-gunung" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Gunung"
+      },
+      "kebayoran-kramat" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kramat Pela"
+      },
+      "kebayoran-lama" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kebayoran Lama"
+      },
+      "kebayoran-lama-cipulir-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipulir I"
+      },
+      "kebayoran-lama-cipulir-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipulir II"
+      },
+      "kebayoran-lama-grogol-selatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Grogol Selatan"
+      },
+      "kebayoran-lama-grogol-utara-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Grogol Utara I"
+      },
+      "kebayoran-lama-grogol-utara-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Grogol Utara II"
+      },
+      "kebayoran-lama-pondok" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pondok Pinang"
+      },
+      "kebayoran-lama-selatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kebayoran Lama Selatan"
+      },
+      "kebayoran-lama-utara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kebayoran Lama Utara"
+      },
+      "kebayoran-petogogan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Petogogan"
+      },
+      "kebayoran-pulo" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pulo"
+      },
+      "kebayoran-rawa" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Rawa Barat"
+      },
+      "kebayoran-selong" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Selong"
+      },
+      "kebayoran-senayan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan senayan"
+      },
+      "kebonjeruk" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Kebon Jeruk"
+      },
+      "kebonjeruk-durikepa" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Duri Kepa"
+      },
+      "kebonjeruk-kedoyaselatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kedoya Selatan"
+      },
+      "kebonjeruk-kedoyautara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kedoya Utara"
+      },
+      "kebonjeruk-kel" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kebon Jeruk"
+      },
+      "kebonjeruk-kelapadua" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kelapa Dua"
+      },
+      "kebonjeruk-sukabumiselatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Sukabumi Selatan"
+      },
+      "kebonjeruk-sukabumiutara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Sukabumi Utara"
       },
       "kelapa_gading" : {
         "antrian" : 0,
@@ -105,9 +473,177 @@
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Kelapa Gading Timur 2"
       },
+      "kembangan-joglo-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Joglo I"
+      },
+      "kembangan-joglo-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Joglo II"
+      },
+      "kembangan-meruya-selatan-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Meruya Selatan I"
+      },
+      "kembangan-meruya-selatan-2" : {
+        "antrian" : 0,
+        "nama" : "Kembanyan Meruya Selatan II"
+      },
+      "kembangan-selatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kembangan Selatan"
+      },
+      "kembangan-utara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kembangan Utara"
+      },
+      "kep-seribu-selatan" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Kepulauan Seribu Selatan"
+      },
+      "kep-seribu-selatan-kelapa" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pulau Kelapa"
+      },
+      "kep-seribu-selatan-pari" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pulau Pari"
+      },
+      "kep-seribu-selatan-tidung" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pulau Tidung"
+      },
+      "kep-seribu-selatan-untung" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pulau Untung Jawa"
+      },
+      "kep-seribu-utara" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Kepulauan Seribu Utara"
+      },
+      "kep-seribu-utara-harapan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pulau Harapan"
+      },
+      "kep-seribu-utara-panggang" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pulau Panggang"
+      },
       "koja_lagoa" : {
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Lagoa"
+      },
+      "kramat-jati-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kramat Jati I"
+      },
+      "kramat-jati-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kramat Jati II"
+      },
+      "kramat-jati-balai" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Balai Kambang"
+      },
+      "kramat-jati-batu" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Batu Ampar"
+      },
+      "kramat-jati-cawang" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cawang"
+      },
+      "kramat-jati-cililitan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cililitan"
+      },
+      "kramat-jati-dukuh" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Dukuh"
+      },
+      "kramat-jati-tengah" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kampung Tengah"
+      },
+      "makasar" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Makasar"
+      },
+      "makasar-cipinang" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipinang Melayu"
+      },
+      "makasar-halim-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Halim I"
+      },
+      "makasar-halim-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Halim II"
+      },
+      "makasar-kel" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Makasar"
+      },
+      "makasar-pala" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kebon Pala"
+      },
+      "makasar-pinang" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pinang Ranti"
+      },
+      "mampang-bangka" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Bangka"
+      },
+      "mampang-kuningan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kuningan Barat"
+      },
+      "mampang-pela-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pela Mampang I"
+      },
+      "mampang-pela-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pela Mampang II"
+      },
+      "mampang-prapatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Mampang Prapatan"
+      },
+      "mampang-tegal" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tegal Parang"
+      },
+      "matraman" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Matraman"
+      },
+      "matraman-kayu" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kayu Manis"
+      },
+      "matraman-kayu-selatan-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Utan Kayu Selatan I"
+      },
+      "matraman-kayu-selatan-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Utan Kayu Selatan II"
+      },
+      "matraman-kayu-utara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Utan Kayu Utara"
+      },
+      "matraman-palmerian" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Palmeriam"
+      },
+      "matraman-pisangan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pisangan Baru"
       },
       "pademangan" : {
         "antrian" : 0,
@@ -129,6 +665,146 @@
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Pademangan Barat Timur"
       },
+      "palmerah" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Palmerah"
+      },
+      "palmerah-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Palmerah I"
+      },
+      "palmerah-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Palmerah II"
+      },
+      "palmerah-bambu-selatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kota Bambu Selatan"
+      },
+      "palmerah-bambu-utara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kota Bambu Utara"
+      },
+      "palmerah-jati-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jati Pulo I"
+      },
+      "palmerah-jati-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jati Pulo II"
+      },
+      "palmerah-kemanggisan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kemanggisan"
+      },
+      "palmerah-slipi-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Slipi I"
+      },
+      "palmerah-slipi-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Slipi II"
+      },
+      "pancoran" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Pancoran"
+      },
+      "pancoran-cikoko" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cikoko"
+      },
+      "pancoran-duren" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Duren Tiga"
+      },
+      "pancoran-kalibata-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kalibata I"
+      },
+      "pancoran-kalibata-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kalibata II"
+      },
+      "pancoran-kel" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pancoran"
+      },
+      "pancoran-pengadengan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pengadengan"
+      },
+      "pancoran-rajawali-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Rajawali I"
+      },
+      "pancoran-rajawali-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Rajawali II"
+      },
+      "pasar-minggu" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Pasar Minggu"
+      },
+      "pasar-minggu-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pasar Minggu I"
+      },
+      "pasar-minggu-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pasar Minggu II"
+      },
+      "pasar-minggu-cilandak" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cilandak Timur"
+      },
+      "pasar-minggu-kebagusan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kebagusan"
+      },
+      "pasar-minggu-pejaten-barat-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pejaten Barat I"
+      },
+      "pasar-minggu-pejaten-barat-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pejaten Barat II"
+      },
+      "pasar-minggu-pejaten-barat-3" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pejaten Barat III"
+      },
+      "pasar-minggu-pejaten-timur" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pejaten Timur"
+      },
+      "pasar-minggu-ragunan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Ragunan"
+      },
+      "pasar-rebo" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Pasar Rebo"
+      },
+      "pasar-rebo-baru" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Baru"
+      },
+      "pasar-rebo-cijantung" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cijantung"
+      },
+      "pasar-rebo-gedong" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Gedong"
+      },
+      "pasar-rebo-kalisari" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kalisari"
+      },
+      "pasar-rebo-pekayon" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pekayon"
+      },
       "pejagalan" : {
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Pejagalan"
@@ -144,6 +820,26 @@
       "penjaringan-2" : {
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Penjaringan 2"
+      },
+      "pesanggrahan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pesanggrahan"
+      },
+      "pesanggrahan-bintaro" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Bintaro"
+      },
+      "pesanggrahan-petukangan-selatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Petukangan Selatan"
+      },
+      "pesanggrahan-petukangan-utara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Petukangan Utara"
+      },
+      "pesanggrahan-ulujami" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Ulujami"
       },
       "pluit" : {
         "antrian" : 0,
@@ -200,6 +896,164 @@
       "priok_warakas" : {
         "antrian" : 0,
         "nama" : "Puskesmas Kelurahan Warakas"
+      },
+      "pulo-gadung" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Pulo Gadung"
+      },
+      "pulo-gadung-cipinang" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Cipinang"
+      },
+      "pulo-gadung-jati-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jati I"
+      },
+      "pulo-gadung-jati-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jati II"
+      },
+      "pulo-gadung-jatinegara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jatinegara Kaum"
+      },
+      "pulo-gadung-kayu" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kayu Putih"
+      },
+      "pulo-gadung-pisangan-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pisangan Timur I"
+      },
+      "pulo-gadung-pisangan-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pisangan Timur II"
+      },
+      "pulo-gadung-rawamangun" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Rawamangun"
+      },
+      "setiabudi" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Setiabudi"
+      },
+      "setiabudi-karet" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Karet"
+      },
+      "setiabudi-kel" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Setiabudi"
+      },
+      "setiabudi-menteng" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Menteng Atas"
+      },
+      "setiabudi-pasar-manggis" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pasar Manggis"
+      },
+      "tamansari" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Taman Sari"
+      },
+      "tamansari-keagungan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Keagungan"
+      },
+      "tamansari-kel" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tamansari"
+      },
+      "tamansari-krukut-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Krukut II"
+      },
+      "tamansari-mangga-besar" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Mangga Besar"
+      },
+      "tamansari-maphar" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Maphar"
+      },
+      "tambora" : {
+        "antrian" : 0,
+        "nama" : "Kecamatan Tambora"
+      },
+      "tambora-angke" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Angke"
+      },
+      "tambora-duri-utara" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Duri Utara"
+      },
+      "tambora-jembatan-besi" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Jembatan Besi"
+      },
+      "tambora-kali-anyar" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kali Anyar"
+      },
+      "tambora-kel" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tambora"
+      },
+      "tambora-pekojaan-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pekojaan I"
+      },
+      "tambora-pekojaan-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Pekojaan II"
+      },
+      "tambora-roa" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Roa Malaka"
+      },
+      "tambora_kel" : {
+        "2016-6-12" : {
+          "-KK2-rY7v3ocxS2geTN8" : {
+            "nama" : "Andre Christoga",
+            "nik" : "1234567890123456",
+            "no_antri" : 1
+          }
+        },
+        "antrian" : 1
+      },
+      "tebet-barat" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tebet Barat"
+      },
+      "tebet-bukit-duri" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Bukit Duri"
+      },
+      "tebet-kebon-baru" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Kebon Baru"
+      },
+      "tebet-manggarai" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Manggarai"
+      },
+      "tebet-manggarai-selatan" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Manggarai Selatan"
+      },
+      "tebet-menteng-1" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Menteng Dalam I"
+      },
+      "tebet-menteng-2" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Menteng Dalam II"
+      },
+      "tebet-timur" : {
+        "antrian" : 0,
+        "nama" : "Kelurahan Tebet Timur"
       }
     },
     "pasien" : {
