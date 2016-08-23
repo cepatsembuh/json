@@ -2,1081 +2,1787 @@
   "puskesmas" : {
     "faskes" : {
       "cengkareng" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kecamatan Cengkareng"
       },
       "cengkareng_barat_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Cengkareng Barat 1"
       },
       "cengkareng_barat_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Cengkareng Barat 2"
       },
       "cengkareng_duri_kosambi_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Duri Kosambi 1"
       },
       "cengkareng_duri_kosambi_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Duri Kosambi 2"
       },
       "cengkareng_kapuk_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kapuk 1"
       },
       "cengkareng_kapuk_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kapuk 2"
       },
       "cengkareng_kedaung" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kedaung Kali Angke"
       },
       "cengkareng_rawa_buaya" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Rawa Buaya"
       },
       "cengkareng_timur" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Cengkareng Timur"
       },
       "cilandak" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Cilandak"
       },
       "cilandak-barat" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cilandak Barat"
       },
       "cilandak-cipete" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipete Selatan"
       },
       "cilandak-gandaria" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Gandaria Selatan"
       },
       "cilandak-lebak" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Lebak Bulus"
       },
-      "cilandak-pondok-1" : {
-        "antrian" : 0,
-        "nama" : "Kelurahan Pondok Labu I"
-      },
-      "cilandak-pondok-2" : {
-        "antrian" : 0,
-        "nama" : "Kelurahan Pondok Labu II"
-      },
       "cilincing_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Cilincing 1"
       },
       "cilincing_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Cilincing 2"
       },
       "cilincing_kalibaru" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kalibaru"
       },
       "cilincing_marunda" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Marunda"
       },
       "cilincing_rorotan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Rorotan"
       },
       "cilincing_semper_barat_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Semper Barat 1"
       },
       "cilincing_semper_barat_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Semper Barat 2"
       },
       "cilincing_semper_barat_3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Semper Barat 3"
       },
       "cilincing_sukapura" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Sukapura"
       },
       "ciracas" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Ciracas"
       },
       "ciracas-cibubur" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cibubur"
       },
       "ciracas-kelapa" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kelapa Dua Wetan"
       },
       "ciracas-rambutan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Rambutan"
       },
       "duren-sawit" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Duren Sawit"
       },
       "duren-sawit-bambu-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pondok Bambu I"
       },
       "duren-sawit-bambu-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pondok Bambu II"
       },
       "duren-sawit-kel" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Duren Sawit"
       },
       "duren-sawit-kelapa" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pondok Kelapa"
       },
       "duren-sawit-klender-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Klender I"
       },
       "duren-sawit-klender-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Klender II"
       },
       "duren-sawit-klender-3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Klender III"
       },
       "duren-sawit-kopi-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pondok Kopi I"
       },
       "duren-sawit-kopi-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pondok Kopi II"
       },
       "duren-sawit-malaka-jaya" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Malaka Jaya"
       },
       "duren-sawit-malaka-sari" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Malaka Sari"
       },
       "grogol" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Grogol Petamburan"
       },
       "grogol-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Grogol I"
       },
       "grogol-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Grogol II"
       },
       "grogol-3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Grogol III"
       },
       "grogol-jelambar-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jelambar I"
       },
       "grogol-jelambar-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jelambar II"
       },
       "grogol-jelambar-baru" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jelambar Baru"
       },
       "grogol-tanjung-duren-selatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tanjung Duren Selatan"
       },
       "grogol-tanjung-duren-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tanjung Duren Utara"
       },
       "grogol-tomang" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tomang"
       },
       "jagakarsa-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jagakarsa I"
       },
       "jagakarsa-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jagakarsa II"
       },
       "jagakarsa-ciganjur" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Ciganjur"
       },
       "jagakarsa-lenteng-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Lenteng Agung I"
       },
       "jagakarsa-lenteng-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Lenteng Agung II"
       },
       "jagakarsa-srenseng" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Srengseng Sawah"
       },
       "jagakarsa_ciganjur" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Ciganjur"
       },
       "jatinegara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Jatinegara"
       },
       "jatinegara-bali" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Bali Mester"
       },
       "jatinegara-bidara-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Bidara Cina I"
       },
       "jatinegara-bidara-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Bidara Cina II"
       },
       "jatinegara-bidara-3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Bidara Cina III"
       },
       "jatinegara-cipinang-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipinang Besar Selatan I"
       },
       "jatinegara-cipinang-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipanang Besar Selatan II"
       },
       "jatinegara-cipinang-cempedak" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipinang Cempedak"
       },
       "jatinegara-cipinang-muara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipinang Muara"
       },
       "jatinegara-cipinang-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipinang Besar Utara"
       },
       "jatinegara-kampung" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kampung Melayu"
       },
       "jatinegara-rawa" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Rawa Bunga"
       },
       "kalideres" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kalideres"
       },
       "kalideres-kamal" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kamal"
       },
       "kalideres-kamal-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kamal II"
       },
       "kalideres-pegadungan-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pegadungan I"
       },
       "kalideres-pegadungan-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pegadungan II"
       },
       "kalideres-pegadungan-3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pegadungan III"
       },
       "kalideres-pegadungan-4" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pegadungan IV"
       },
       "kalideres-semanan-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Semanan I"
       },
       "kalideres-semanan-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Semanan II"
       },
       "kalideres-tegal-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tegal Alur I"
       },
       "kalideres-tegal-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tegal Alur II"
       },
       "kalideres-tegal-3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tegal Alur III"
       },
       "kamal-muara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kamal Muara"
       },
       "kapuk-muara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kapuk Muara"
       },
       "kebayoran-baru" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Kebayoran Baru"
       },
       "kebayoran-cipete" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipete Utara"
       },
       "kebayoran-gandaria-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Gandaria Utara 1"
       },
       "kebayoran-gandaria-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Gandaria Utara 2"
       },
       "kebayoran-gunung" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Gunung"
       },
       "kebayoran-kramat" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kramat Pela"
       },
       "kebayoran-lama" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kebayoran Lama"
       },
       "kebayoran-lama-cipulir-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipulir I"
       },
       "kebayoran-lama-cipulir-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipulir II"
       },
       "kebayoran-lama-grogol-selatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Grogol Selatan"
       },
       "kebayoran-lama-grogol-utara-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Grogol Utara I"
       },
       "kebayoran-lama-grogol-utara-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Grogol Utara II"
       },
       "kebayoran-lama-pondok" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pondok Pinang"
       },
       "kebayoran-lama-selatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kebayoran Lama Selatan"
       },
       "kebayoran-lama-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kebayoran Lama Utara"
       },
       "kebayoran-petogogan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Petogogan"
       },
       "kebayoran-pulo" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pulo"
       },
       "kebayoran-rawa" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Rawa Barat"
       },
       "kebayoran-selong" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Selong"
       },
       "kebayoran-senayan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan senayan"
       },
       "kebonjeruk" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Kebon Jeruk"
       },
       "kebonjeruk-durikepa" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Duri Kepa"
       },
       "kebonjeruk-kedoyaselatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kedoya Selatan"
       },
       "kebonjeruk-kedoyautara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kedoya Utara"
       },
       "kebonjeruk-kel" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kebon Jeruk"
       },
       "kebonjeruk-kelapadua" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kelapa Dua"
       },
       "kebonjeruk-sukabumiselatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Sukabumi Selatan"
       },
       "kebonjeruk-sukabumiutara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Sukabumi Utara"
       },
       "kelapa_gading" : {
-        "antrian" : 0,
-        "nama" : "Puskesmas Kecamatan Kelapa Gading"
+        "2016-6-27" : {
+          "bpg-pasien" : {
+            "-KLEhnG-0g9zpHJX-ANN" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "BPG"
+            },
+            "-KLHaadfA0vMZdsdbFwI" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 2,
+              "poli" : "BPG"
+            }
+          },
+          "bpu-pasien" : {
+            "-KLEgxobinZN46-2596g" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "BPU"
+            },
+            "-KLEkH93E4sRCzfadxCL" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 5,
+              "poli" : "BPU"
+            },
+            "-KLG2l3PYvVZEAhkj4zP" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 6,
+              "poli" : "BPU"
+            },
+            "-KLGDxSGnbeDawtlMrEj" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 7,
+              "poli" : "BPU"
+            },
+            "-KLH_8S6qYTiquSsGv5L" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 8,
+              "poli" : "BPU"
+            },
+            "-KLHaVjlIBbbCAe3iiHU" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 9,
+              "poli" : "BPU"
+            }
+          },
+          "kia-pasien" : {
+            "-KLEhoh6bC5udBSwFPac" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "KIA"
+            },
+            "-KLHcNI-cIt__nJTzXO-" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 2,
+              "poli" : "KIA"
+            },
+            "-KLHcWKRMH9JfK8ESjLw" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 3,
+              "poli" : "KIA"
+            },
+            "-KLHcWPyn3u61fRWge7y" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 4,
+              "poli" : "KIA"
+            },
+            "-KLHdl91Cay8aFV-tuu6" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 5,
+              "poli" : "KIA"
+            },
+            "-KLHfLHrffOEJpzskJ_H" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 6,
+              "poli" : "KIA"
+            }
+          }
+        },
+        "2016-6-28" : {
+          "bpg-pasien" : {
+            "-KLI-5U7c3sODFZQnHRo" : {
+              "nama" : "jevon",
+              "nik" : "1234567890098765",
+              "no_antri" : 3,
+              "poli" : "BPG"
+            }
+          },
+          "bpu-pasien" : {
+            "-KLHu982LuTVDa1YIYjn" : {
+              "nama" : "Hevon Night",
+              "nik" : "1234567890098765",
+              "no_antri" : 11,
+              "poli" : "BPU"
+            },
+            "-KLHuBC9Im2FyFY7uRhF" : {
+              "nama" : "Hevon Night",
+              "nik" : "1234567890098765",
+              "no_antri" : 12,
+              "poli" : "BPU"
+            },
+            "-KLHuHwlbdIDbEouAiMj" : {
+              "nama" : "Hevon Night",
+              "nik" : "1234567890098765",
+              "no_antri" : 13,
+              "poli" : "BPU"
+            },
+            "-KLHwb7DjlzMz-k7K2rc" : {
+              "nama" : "testingme",
+              "nik" : "1234567890098765",
+              "no_antri" : 14,
+              "poli" : "BPU"
+            },
+            "-KLHzz_y6xHSTEqzCdYW" : {
+              "nama" : "AddMinutes",
+              "nik" : "1234567890098765",
+              "no_antri" : 16,
+              "poli" : "BPU"
+            }
+          },
+          "kia-pasien" : {
+            "-KLKLB1EsbihcJ5Jmxj1" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 7,
+              "poli" : "KIA"
+            },
+            "-KLKMgBh59vIi3dpV8nQ" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "KIA"
+            },
+            "-KLKMinpVuxjvawTPFjC" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 2,
+              "poli" : "KIA"
+            },
+            "-KLKMwW9HF03aZudOMM0" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "KIA"
+            },
+            "-KLKXUSqeIh5sWXlmCyh" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 2,
+              "poli" : "KIA"
+            },
+            "-KLKXZRdOxsDS6Xcfmnm" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 3,
+              "poli" : "KIA"
+            }
+          }
+        },
+        "2016-7-25" : {
+          "bpu-pasien" : {
+            "-KNWl4wjuPgdrbBAVewe" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "BPU"
+            }
+          }
+        },
+        "2016-8-7" : {
+          "bpg-pasien" : {
+            "-KO_U_ZcdxpMXsUiP1sP" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "BPG"
+            }
+          },
+          "bpu-pasien" : {
+            "-KO_URPOQDBykri5E9PC" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "BPU"
+            }
+          },
+          "kia-pasien" : {
+            "-KO_UbVMxDYnAgtB8tLc" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "KIA"
+            }
+          }
+        },
+        "antrian" : 2,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
+        "nama" : "Puskesmas Kecamatan Kelapa Gading",
+        "waktu" : "09:50"
       },
       "kelapa_gading_pegangsaan_dua_a" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Pegangsaan Dua A"
       },
       "kelapa_gading_pegangsaan_dua_b" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Pegangsaan Dua B"
       },
       "kelapa_gading_timur_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kelapa Gading Timur 1"
       },
       "kelapa_gading_timur_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kelapa Gading Timur 2"
       },
       "kembangan-joglo-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Joglo I"
       },
       "kembangan-joglo-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Joglo II"
       },
       "kembangan-meruya-selatan-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Meruya Selatan I"
       },
       "kembangan-meruya-selatan-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kembanyan Meruya Selatan II"
       },
       "kembangan-selatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kembangan Selatan"
       },
       "kembangan-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kembangan Utara"
       },
       "kep-seribu-selatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Kepulauan Seribu Selatan"
       },
       "kep-seribu-selatan-kelapa" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pulau Kelapa"
       },
       "kep-seribu-selatan-pari" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pulau Pari"
       },
       "kep-seribu-selatan-tidung" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pulau Tidung"
       },
       "kep-seribu-selatan-untung" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pulau Untung Jawa"
       },
       "kep-seribu-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Kepulauan Seribu Utara"
       },
       "kep-seribu-utara-harapan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pulau Harapan"
       },
       "kep-seribu-utara-panggang" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pulau Panggang"
       },
-      "koja_lagoa" : {
-        "antrian" : 0,
-        "nama" : "Puskesmas Kelurahan Lagoa"
+      "koja" : {
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
+        "nama" : "Puskesmas Kelurahan Koja Lagoa"
       },
       "kramat-jati-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kramat Jati I"
       },
       "kramat-jati-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kramat Jati II"
       },
       "kramat-jati-balai" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Balai Kambang"
       },
       "kramat-jati-batu" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Batu Ampar"
       },
       "kramat-jati-cawang" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cawang"
       },
       "kramat-jati-cililitan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cililitan"
       },
       "kramat-jati-dukuh" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Dukuh"
       },
       "kramat-jati-tengah" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kampung Tengah"
       },
       "makasar" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Makasar"
       },
       "makasar-cipinang" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipinang Melayu"
       },
       "makasar-halim-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Halim I"
       },
       "makasar-halim-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Halim II"
       },
       "makasar-kel" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Makasar"
       },
       "makasar-pala" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kebon Pala"
       },
       "makasar-pinang" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pinang Ranti"
       },
       "mampang-bangka" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Bangka"
       },
       "mampang-kuningan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kuningan Barat"
       },
       "mampang-pela-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pela Mampang I"
       },
       "mampang-pela-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pela Mampang II"
       },
       "mampang-prapatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Mampang Prapatan"
       },
       "mampang-tegal" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tegal Parang"
       },
       "matraman" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Matraman"
       },
       "matraman-kayu" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kayu Manis"
       },
       "matraman-kayu-selatan-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Utan Kayu Selatan I"
       },
       "matraman-kayu-selatan-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Utan Kayu Selatan II"
       },
       "matraman-kayu-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Utan Kayu Utara"
       },
       "matraman-palmerian" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Palmeriam"
       },
       "matraman-pisangan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pisangan Baru"
       },
       "pademangan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kecamatan Pademangan"
       },
       "pademangan-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Pademangan Barat 1"
       },
       "pademangan-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Pademangan Barat 2"
       },
       "pademangan-ancol" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Ancol"
       },
       "pademangan_bt" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Pademangan Barat Timur"
       },
       "palmerah" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Palmerah"
       },
       "palmerah-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Palmerah I"
       },
       "palmerah-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Palmerah II"
       },
       "palmerah-bambu-selatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kota Bambu Selatan"
       },
       "palmerah-bambu-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kota Bambu Utara"
       },
       "palmerah-jati-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jati Pulo I"
       },
       "palmerah-jati-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jati Pulo II"
       },
       "palmerah-kemanggisan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kemanggisan"
       },
       "palmerah-slipi-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Slipi I"
       },
       "palmerah-slipi-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Slipi II"
       },
       "pancoran" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Pancoran"
       },
       "pancoran-cikoko" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cikoko"
       },
       "pancoran-duren" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Duren Tiga"
       },
       "pancoran-kalibata-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kalibata I"
       },
       "pancoran-kalibata-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kalibata II"
       },
       "pancoran-kel" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pancoran"
       },
       "pancoran-pengadengan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pengadengan"
       },
       "pancoran-rajawali-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Rajawali I"
       },
       "pancoran-rajawali-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Rajawali II"
       },
       "pasar-minggu" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Pasar Minggu"
       },
       "pasar-minggu-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pasar Minggu I"
       },
       "pasar-minggu-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pasar Minggu II"
       },
       "pasar-minggu-cilandak" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cilandak Timur"
       },
       "pasar-minggu-kebagusan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kebagusan"
       },
       "pasar-minggu-pejaten-barat-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pejaten Barat I"
       },
       "pasar-minggu-pejaten-barat-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pejaten Barat II"
       },
       "pasar-minggu-pejaten-barat-3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pejaten Barat III"
       },
       "pasar-minggu-pejaten-timur" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pejaten Timur"
       },
       "pasar-minggu-ragunan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Ragunan"
       },
       "pasar-rebo" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Pasar Rebo"
       },
       "pasar-rebo-baru" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Baru"
       },
       "pasar-rebo-cijantung" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cijantung"
       },
       "pasar-rebo-gedong" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Gedong"
       },
       "pasar-rebo-kalisari" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kalisari"
       },
       "pasar-rebo-pekayon" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pekayon"
       },
+      "pasien" : {
+        "-KPHFYR4ZEwpX7snrOeC" : {
+          "nama" : "andrechristoga",
+          "nik" : "1234567890",
+          "no" : "1234567890"
+        },
+        "-KPS-a3UXqhAmIQjaV3s" : {
+          "nama" : "Andre Christgoa",
+          "nik" : "1234567890123456",
+          "no" : "12345678901234567890"
+        }
+      },
       "pejagalan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Pejagalan"
       },
       "penjaringan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kecamatan Penjaringan"
       },
       "penjaringan-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Penjaringan 1"
       },
       "penjaringan-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Penjaringan 2"
       },
       "pesanggrahan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pesanggrahan"
       },
       "pesanggrahan-bintaro" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Bintaro"
       },
       "pesanggrahan-petukangan-selatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Petukangan Selatan"
       },
       "pesanggrahan-petukangan-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Petukangan Utara"
       },
       "pesanggrahan-ulujami" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Ulujami"
       },
       "pluit" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Pluit"
       },
       "priok_kebon_bawang_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kebon Bawang 1"
       },
       "priok_kebon_bawang_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kebon Bawang 2"
       },
       "priok_kebon_bawang_3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Kebon Bawang 3"
       },
       "priok_papanggo_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Papanggo 1"
       },
       "priok_papanggo_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Papanggo 2"
       },
       "priok_sungai_bambu" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Sungai Bambu"
       },
       "priok_sunter_agung_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Sunter Agung 1"
       },
       "priok_sunter_agung_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Sunter Agung 2"
       },
       "priok_sunter_agung_3" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Sunter Agung 3"
       },
       "priok_sunter_jaya_1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Sunter Jaya 1"
       },
       "priok_sunter_jaya_2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Sunter Jaya 2"
       },
       "priok_tanjung_priok" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Tanjung Priok"
       },
       "priok_warakas" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Puskesmas Kelurahan Warakas"
       },
       "pulo-gadung" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Pulo Gadung"
       },
       "pulo-gadung-cipinang" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Cipinang"
       },
       "pulo-gadung-jati-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jati I"
       },
       "pulo-gadung-jati-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jati II"
       },
       "pulo-gadung-jatinegara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jatinegara Kaum"
       },
       "pulo-gadung-kayu" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kayu Putih"
       },
       "pulo-gadung-pisangan-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pisangan Timur I"
       },
       "pulo-gadung-pisangan-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pisangan Timur II"
       },
       "pulo-gadung-rawamangun" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Rawamangun"
       },
       "setiabudi" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Setiabudi"
       },
       "setiabudi-karet" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Karet"
       },
       "setiabudi-kel" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Setiabudi"
       },
       "setiabudi-menteng" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Menteng Atas"
       },
       "setiabudi-pasar-manggis" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pasar Manggis"
       },
       "tamansari" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Taman Sari"
       },
       "tamansari-keagungan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Keagungan"
       },
       "tamansari-kel" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tamansari"
       },
       "tamansari-krukut-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Krukut II"
       },
       "tamansari-mangga-besar" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Mangga Besar"
       },
       "tamansari-maphar" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Maphar"
       },
       "tambora" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kecamatan Tambora"
       },
       "tambora-angke" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Angke"
       },
       "tambora-duri-utara" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Duri Utara"
       },
       "tambora-jembatan-besi" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Jembatan Besi"
       },
       "tambora-kali-anyar" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kali Anyar"
       },
       "tambora-kel" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tambora"
       },
       "tambora-pekojaan-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pekojaan I"
       },
       "tambora-pekojaan-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Pekojaan II"
       },
       "tambora-roa" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Roa Malaka"
       },
-      "tambora_kel" : {
-        "2016-6-12" : {
-          "-KK2-rY7v3ocxS2geTN8" : {
-            "nama" : "Andre Christoga",
-            "nik" : "1234567890123456",
-            "no_antri" : 1
-          }
-        },
-        "antrian" : 1
-      },
       "tebet-barat" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tebet Barat"
       },
       "tebet-bukit-duri" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Bukit Duri"
       },
       "tebet-kebon-baru" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Kebon Baru"
       },
       "tebet-manggarai" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Manggarai"
       },
       "tebet-manggarai-selatan" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Manggarai Selatan"
       },
       "tebet-menteng-1" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Menteng Dalam I"
       },
       "tebet-menteng-2" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Menteng Dalam II"
       },
       "tebet-timur" : {
-        "antrian" : 0,
+        "bpg" : 0,
+        "bpu" : 0,
+        "kia" : 0,
         "nama" : "Kelurahan Tebet Timur"
       }
     },
-    "pasien" : {
-      "-KGsj7mB4GMlHv39sDgS" : {
-        "lokasi" : "kelapa_gading",
-        "nama" : "Andre Christoga",
-        "nik" : "1234567890123456"
-      },
-      "-KGsj84QKFW6_FMHUMlS" : {
-        "lokasi" : "kelapa_gading",
-        "nama" : "Andre Christoga",
-        "nik" : "1234567890123456"
-      },
-      "-KGsjH1iiLM8aWZs0-IP" : {
-        "lokasi" : "kelapa_gading",
-        "nama" : "Andre Christoga",
-        "nik" : "1234567890123456"
-      },
-      "-KH9FFezmQv6Z4d2i-6J" : {
-        "nama" : "Andre Christoga",
-        "nik" : 1234657890123465,
-        "no_antrian" : 1
-      }
+    "kelapa_gading" : {
+      "bpg" : 0,
+      "bpu" : 0,
+      "kia" : 0,
+      "nama" : "Puskesmas Kecamatan Kelapa Gading"
     }
   }
 }

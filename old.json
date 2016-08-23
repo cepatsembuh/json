@@ -850,11 +850,38 @@
             }
           }
         },
+        "2016-8-7" : {
+          "bpg-pasien" : {
+            "-KO_U_ZcdxpMXsUiP1sP" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "BPG"
+            }
+          },
+          "bpu-pasien" : {
+            "-KO_URPOQDBykri5E9PC" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "BPU"
+            }
+          },
+          "kia-pasien" : {
+            "-KO_UbVMxDYnAgtB8tLc" : {
+              "nama" : "Andre Christoga",
+              "nik" : "1234567890123456",
+              "no_antri" : 1,
+              "poli" : "KIA"
+            }
+          }
+        },
+        "antrian" : 2,
         "bpg" : 0,
-        "bpu" : 1,
+        "bpu" : 0,
         "kia" : 0,
         "nama" : "Puskesmas Kecamatan Kelapa Gading",
-        "waktu" : "09:10"
+        "waktu" : "09:50"
       },
       "kelapa_gading_pegangsaan_dua_a" : {
         "bpg" : 0,
@@ -1378,6 +1405,18 @@
         "kia" : 0,
         "nama" : "Kelurahan Pekayon"
       },
+      "pasien" : {
+        "-KPHFYR4ZEwpX7snrOeC" : {
+          "nama" : "andrechristoga",
+          "nik" : "1234567890",
+          "no" : "1234567890"
+        },
+        "-KPS-a3UXqhAmIQjaV3s" : {
+          "nama" : "Andre Christgoa",
+          "nik" : "1234567890123456",
+          "no" : "12345678901234567890"
+        }
+      },
       "pejagalan" : {
         "bpg" : 0,
         "bpu" : 0,
@@ -1738,6 +1777,12 @@
         "kia" : 0,
         "nama" : "Kelurahan Tebet Timur"
       }
+    },
+    "kelapa_gading" : {
+      "bpg" : 0,
+      "bpu" : 0,
+      "kia" : 0,
+      "nama" : "Puskesmas Kecamatan Kelapa Gading"
     }
   }
 }
