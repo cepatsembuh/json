@@ -1779,9 +1779,9 @@
       }
     },
     "kelapa_gading" : {
-      "bpg" : 0,
-      "bpu" : 0,
-      "kia" : 0,
+      "bpg" : 1,
+      "bpu" : 2,
+      "kia" : 1,
       "nama" : "Puskesmas Kecamatan Kelapa Gading"
     }
   }
